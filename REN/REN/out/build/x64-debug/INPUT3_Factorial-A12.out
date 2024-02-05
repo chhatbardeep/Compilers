@@ -1,0 +1,106 @@
+	=---------------------------------------=
+	|  COMPILERS - ALGONQUIN COLLEGE (F23)  |
+	=---------------------------------------=
+	|              ....                     |
+	|          ........::.::::::.           |
+	|        .:........::.:^^^~~~:          |
+	|        :^^::::::^^^::^!7??7~^.        |
+	|       .:^~~^!77777~~7?YY?7??7^.       |
+	|       :.^~!??!^::::^^~!?5PY??!~.      |
+	|       ~!!7J~.:::^^^^~!!~~?G5J?~       |
+	|       :^~?!~7?Y57^^?PP5YJ!J5Y?:       |
+	|       .~!!.:^!7!:.:7JYYJ7~7Y7^        |
+	|       .~77..    . .~^:^^^~7?:         |
+	|       .^!^~:::.:^!7?~^~!77J:          |
+	|        ^^!Y~^^^^~?YJ77??7JJ^          |
+	|       .^7J?~^~~^~7??7??7JY?~:         |
+	|        ::^^~^7?!^~~!7???J?J7~:.       |
+	|         ^~~!.^7YPPPP5Y?7J7777~.       |
+	|        ..:~..:^!JPP5YJ?!777!^.        |
+	| .~?JJJJJJJJJJYYYYYPPPPPPPPPPPP5PPYY~  |
+	|  :!Y5GGG.___ YYYYYY__._.PPGGGGGG5!.   |
+	|   :!Y5G / __| ___ / _(_)__ _ PGP5.    |
+	|    :~75 \__ \/ _ \  _| / _` | 5?.     |
+	|     7~7 |___/\___/_| |_\__,_| Y5?.    |
+	|    .^~!~.....................P5YY7.   |
+	|   .:::::::::::::?JJJJYYYYYYYYYJJJJ7.  |
+	|                                       |
+	=---------------------------------------=
+
+[Option 'r': Starting READER .....]
+
+Reading file INPUT3_Factorial.sof ....Please wait
+The input file INPUT3_Factorial.sof has not been completely loaded.
+Current size of buffer: 250.
+Last character read from the input file is: 
+ 10
+Input file size: 364
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  250
+The current size of the buffer is:  250
+The operational mode of the buffer is: f
+The increment factor of the buffer is:  0
+The first symbol in the buffer is:  #
+The value of the flags field is: 02
+Reader statistics : 
+Reader[97]=12
+Reader[98]=96
+Reader[115]=2
+Reader[32]=11
+Reader[101]=3
+Reader[120]=2
+Reader[58]=4
+Reader[32]=4
+Reader[102]=1
+Reader[99]=2
+Reader[97]=2
+Reader[32]=1
+Reader[110]=3
+Reader[38]=6
+Reader[32]=1
+Reader[123]=3
+Reader[116]=1
+Reader[110]=1
+Reader[116]=1
+Reader[36]=1
+Reader[10]=8
+Reader[32]=2
+Reader[32]=2
+Reader[32]=3
+Reader[32]=8
+Reader[125]=6
+Reader[10]=1
+Reader[32]=1
+Reader[32]=13
+Reader[99]=3
+Reader[111]=4
+Reader[100]=10
+Reader[101]=4
+Reader[32]=3
+Reader[10]=5
+Reader[32]=2
+Reader[32]=7
+Reader[32]=3
+Reader[32]=1
+Reader[32]=2
+Reader[102]=4
+Reader[61]=1
+Number of errors: 0
+
+Printing buffer contents:
+
+# Sofia Example 4:
+  Testing numbers (ex: factorial) #
+main& {
+    data {
+        int i$, n$, f$;
+    }
+    code {
+        f$=1;
+        i$=1;
+        print&('Write a number:');
+        input&(n$);
+        while (i$<n$) do {
+            f$ = f$ * i$;

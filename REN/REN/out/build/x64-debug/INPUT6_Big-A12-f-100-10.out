@@ -1,0 +1,84 @@
+	=---------------------------------------=
+	|  COMPILERS - ALGONQUIN COLLEGE (F23)  |
+	=---------------------------------------=
+	|              ....                     |
+	|          ........::.::::::.           |
+	|        .:........::.:^^^~~~:          |
+	|        :^^::::::^^^::^!7??7~^.        |
+	|       .:^~~^!77777~~7?YY?7??7^.       |
+	|       :.^~!??!^::::^^~!?5PY??!~.      |
+	|       ~!!7J~.:::^^^^~!!~~?G5J?~       |
+	|       :^~?!~7?Y57^^?PP5YJ!J5Y?:       |
+	|       .~!!.:^!7!:.:7JYYJ7~7Y7^        |
+	|       .~77..    . .~^:^^^~7?:         |
+	|       .^!^~:::.:^!7?~^~!77J:          |
+	|        ^^!Y~^^^^~?YJ77??7JJ^          |
+	|       .^7J?~^~~^~7??7??7JY?~:         |
+	|        ::^^~^7?!^~~!7???J?J7~:.       |
+	|         ^~~!.^7YPPPP5Y?7J7777~.       |
+	|        ..:~..:^!JPP5YJ?!777!^.        |
+	| .~?JJJJJJJJJJYYYYYPPPPPPPPPPPP5PPYY~  |
+	|  :!Y5GGG.___ YYYYYY__._.PPGGGGGG5!.   |
+	|   :!Y5G / __| ___ / _(_)__ _ PGP5.    |
+	|    :~75 \__ \/ _ \  _| / _` | 5?.     |
+	|     7~7 |___/\___/_| |_\__,_| Y5?.    |
+	|    .^~!~.....................P5YY7.   |
+	|   .:::::::::::::?JJJJYYYYYYYYYJJJJ7.  |
+	|                                       |
+	=---------------------------------------=
+
+[Option 'r': Starting READER .....]
+
+Reading file INPUT6_Big.sof ....Please wait
+The input file INPUT6_Big.sof has not been completely loaded.
+Current size of buffer: 100.
+Last character read from the input file is: d 100
+Input file size: 32533
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  100
+The current size of the buffer is:  100
+The operational mode of the buffer is: f
+The increment factor of the buffer is:  10
+The first symbol in the buffer is:  #
+The value of the flags field is: 02
+Reader statistics : 
+Reader[120]=1
+Reader[97]=4
+Reader[32]=17
+Reader[108]=2
+Reader[101]=2
+Reader[99]=1
+Reader[32]=1
+Reader[101]=1
+Reader[114]=1
+Reader[123]=8
+Reader[9]=3
+Reader[-3]=2
+Reader[-3]=8
+Reader[-3]=1
+Reader[-3]=2
+Reader[-35]=2
+Reader[-35]=4
+Reader[-35]=5
+Reader[-35]=3
+Reader[-35]=5
+Reader[-35]=6
+Reader[-35]=2
+Reader[0]=8
+Reader[0]=2
+Reader[0]=3
+Reader[0]=1
+Reader[50]=2
+Reader[-25]=2
+Reader[-70]=1
+Number of errors: 0
+
+Printing buffer contents:
+
+# Sofia Example
+  The program is "lexically" correct
+  and should not generate any error #
+main& {
+	
